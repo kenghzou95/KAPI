@@ -20,7 +20,7 @@
 
 5. npm install supertest
 
-6. import the KAPI node-red flow 
+6. import the [KAPI node-red flow]: https://github.com/kenghzou95/KAPI/tree/main/nodered-flow
 
 7. replace ./flows_LAPTOP-G0M3BEJU.json to ur current nodered flow name ... default = flows.json
 
