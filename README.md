@@ -12,6 +12,9 @@
 
 ... under development
 
+### `npm install`
+
+install the node_modules before start  `npm start`
 
 ### `npm start`
 
