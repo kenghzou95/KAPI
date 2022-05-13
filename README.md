@@ -8,7 +8,24 @@
 2. able to try the API with given parameters
 3. able to perform simple test
 
-## Requirement after cloning, import the KAPI node-red flow 
+## Requirement after cloning
+
+1. npm install loadtest
+
+2. npm install mocha
+
+3. npm install chai
+
+4. npm install chai-json-schema
+
+5. npm install supertest
+
+6. import the KAPI node-red flow 
+
+7. replace ./flows_LAPTOP-G0M3BEJU.json to ur current nodered flow name ... default = flows.json
+
+8. Copy the management.db file to your nodered path 
+
 
 ... under development
 
